@@ -1,13 +1,11 @@
-let length = '5469';
-console.log(length);
+let length = 5469;
 
-let width = '7645'
-console.log(width)
+let width = 7645;
 
-let depth = '1567';
-console.log(depth);
+let depth = 1567;
 
-let array = [5469, 7645, 1567];
+let array = ['lenght', 'width', 'depth'];
+
 console.log(array);
 
 
