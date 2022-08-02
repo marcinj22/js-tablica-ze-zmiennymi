@@ -4,7 +4,7 @@ let width = 7645;
 
 let depth = 1567;
 
-let array = ['lenght', 'width', 'depth'];
+let array = [length, width, depth];
 
 console.log(array);
 
